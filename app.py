@@ -5,6 +5,6 @@ app = Flask(__name__)
 def hello_world():
   return 'Hey, wlcome to my project.'
 
-@app.route('/health)
+@app.route('/health')
 def health():
   return 'Server is up and running.'
