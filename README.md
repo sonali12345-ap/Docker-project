@@ -1,2 +1,2 @@
 # Docker-project
-python app for docker demo using aws ec2
+python app deployement on AWS EC2 using Docker
